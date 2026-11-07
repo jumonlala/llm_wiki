@@ -1,0 +1,23 @@
+# Machine-local Obsidian state. Shared settings can be added later on purpose.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Operating system junk
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editor state
+.vscode/
+.idea/
+
+# Secrets. Never commit these.
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
